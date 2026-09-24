@@ -1,0 +1,81 @@
+  CppCLR_WinFormsProject1.Form1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project3_OOP, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Candlestick: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt64 Volume 'get set' : 
+    Double Close 'get set' : 
+    Double Low 'get set' : 
+    Double High 'get set' : 
+    Double Open 'get set' : 
+    System.DateTime Date 'get set' : 
+  Methods:
+    get_Date(): PrivateScope, Public, HideBySig, SpecialName
+    set_Date(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_Open(): PrivateScope, Public, HideBySig, SpecialName
+    set_Open(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_High(): PrivateScope, Public, HideBySig, SpecialName
+    set_High(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Low(): PrivateScope, Public, HideBySig, SpecialName
+    set_Low(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Close(): PrivateScope, Public, HideBySig, SpecialName
+    set_Close(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Volume(): PrivateScope, Public, HideBySig, SpecialName
+    set_Volume(UInt64): PrivateScope, Public, HideBySig, SpecialName
+Class SmartCandlestick: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Candlestick
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Collections.Generic.Dictionary`2[System.String,System.Boolean] candleStick_Patterns 'get set' : 
+    Double lowerTail 'get set' : 
+    Double upperTail 'get set' : 
+    Double bottomPrice 'get set' : 
+    Double topPrice 'get set' : 
+    Double bodyRange 'get set' : 
+    Double range 'get set' : 
+  Methods:
+    get_range(): PrivateScope, Public, HideBySig, SpecialName
+    set_range(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_bodyRange(): PrivateScope, Public, HideBySig, SpecialName
+    set_bodyRange(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_topPrice(): PrivateScope, Public, HideBySig, SpecialName
+    set_topPrice(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_bottomPrice(): PrivateScope, Public, HideBySig, SpecialName
+    set_bottomPrice(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_upperTail(): PrivateScope, Public, HideBySig, SpecialName
+    set_upperTail(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_lowerTail(): PrivateScope, Public, HideBySig, SpecialName
+    set_lowerTail(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_candleStick_Patterns(): PrivateScope, Public, HideBySig, SpecialName
+    set_candleStick_Patterns(Dictionary`2): PrivateScope, Public, HideBySig, SpecialName
+Class CppCLRWinFormsProject.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.DateTime, System.DateTime): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Collections.Generic.Dictionary`2[System.String,Recognizer] Dictionary_Recognizer 'get set' : 
+  Methods:
+    displayCandlesticks(): PrivateScope, Public, HideBySig
+    filterCandlesticks(): PrivateScope, Public, HideBySig
+    normalizeChart(): PrivateScope, Public, HideBySig
+    update(): PrivateScope, Public, HideBySig
+    get_Dictionary_Recognizer(): PrivateScope, Public, HideBySig, SpecialName
+    set_Dictionary_Recognizer(Dictionary`2): PrivateScope, Public, HideBySig, SpecialName
+    ReadCandleStickDataFromFile(): PrivateScope, Public, HideBySig
+    InitalizeRecognizer(): PrivateScope, Public, HideBySig

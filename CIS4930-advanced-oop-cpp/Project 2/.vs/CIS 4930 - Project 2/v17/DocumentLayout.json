@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|solutionrelative:CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|solutionrelative:CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|solutionrelative:CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|solutionrelative:CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|solutionrelative:CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Candlestick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|solutionrelative:CIS 4930 001 Spring 2024 Demo\\Candlestick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Candlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D3C2263-13F8-4BBE-AC6C-83BEFEAC346D}|CIS 4930 001 Spring 2024 Demo\\CIS 4930 001 Spring 2024 Demo.vcxproj|solutionrelative:CIS 4930 001 Spring 2024 Demo\\Candlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_StockPicker.cpp",
+              "DocumentMoniker": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.cpp",
+              "RelativeDocumentMoniker": "CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.cpp",
+              "ToolTip": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.cpp",
+              "RelativeToolTip": "CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T00:25:58.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartCandlestick.cpp",
+              "DocumentMoniker": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.cpp",
+              "RelativeDocumentMoniker": "CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.cpp",
+              "ToolTip": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.cpp",
+              "RelativeToolTip": "CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T00:25:58.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Candlestick.cpp",
+              "DocumentMoniker": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Candlestick.cpp",
+              "RelativeDocumentMoniker": "CIS 4930 001 Spring 2024 Demo\\Candlestick.cpp",
+              "ToolTip": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Candlestick.cpp",
+              "RelativeToolTip": "CIS 4930 001 Spring 2024 Demo\\Candlestick.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T00:25:58.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartCandlestick.h",
+              "DocumentMoniker": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.h",
+              "RelativeDocumentMoniker": "CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.h",
+              "ToolTip": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.h",
+              "RelativeToolTip": "CIS 4930 001 Spring 2024 Demo\\SmartCandlestick.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-23T00:25:58.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_StockPicker.h [Design]",
+              "DocumentMoniker": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h",
+              "RelativeDocumentMoniker": "CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h",
+              "ToolTip": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h [Design]",
+              "RelativeToolTip": "CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-23T00:25:58.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candlestick.h",
+              "DocumentMoniker": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Candlestick.h",
+              "RelativeDocumentMoniker": "CIS 4930 001 Spring 2024 Demo\\Candlestick.h",
+              "ToolTip": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Candlestick.h",
+              "RelativeToolTip": "CIS 4930 001 Spring 2024 Demo\\Candlestick.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-23T00:25:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_StockPicker.h",
+              "DocumentMoniker": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h",
+              "RelativeDocumentMoniker": "CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h",
+              "ToolTip": "C:\\Users\\Diya Jain\\OneDrive - University of South Florida\\Desktop\\Project2\\Project 2\\CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h",
+              "RelativeToolTip": "CIS 4930 001 Spring 2024 Demo\\Form_StockPicker.h",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAAACcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-23T00:25:58.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

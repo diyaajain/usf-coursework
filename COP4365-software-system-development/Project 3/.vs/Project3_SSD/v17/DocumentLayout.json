@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|c:\\users\\diya\\desktop\\cop4356_c#\\cop4356_c#\\project_3\\project 3\\windowsformsapp cop 4365\\form_stockviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|solutionrelative:windowsformsapp cop 4365\\form_stockviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_neutral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_neutral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_neutral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_neutral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_bearish_engulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_bearish_engulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_bearish_engulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_bearish_engulfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\form_stockviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\Project3_SSD.csproj|solutionrelative:windowsformsapp cop 4365\\form_stockviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_marubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_marubozu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_dragonfly_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_dragonfly_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_gravestone_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_gravestone_doji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_bullish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_bullish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_bearish_harami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_bearish_harami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\windowsformsapp cop 4365\\recognizer_bearish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C67515F-4653-4243-990B-70988A122147}|WindowsFormsApp COP 4365\\WindowsFormsApp COP 4365.csproj|solutionrelative:windowsformsapp cop 4365\\recognizer_bearish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recognizer_Neutral.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:11:15.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_StockViewer.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Form_StockViewer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Form_StockViewer.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Form_StockViewer.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Form_StockViewer.cs",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:18:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_StockViewer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Form_StockViewer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Form_StockViewer.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Form_StockViewer.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Form_StockViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:16:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recognizer_Bearish_Engulfing.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:37:32.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recognizer_Doji.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Doji.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Doji.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Doji.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Doji.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:47:56.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recognizer_Peak.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Peak.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Peak.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Peak.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Peak.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:45:56.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recognizer_Bearish_Engulfing.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Bearish_Engulfing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:50.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recognizer_Neutral.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Neutral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:50.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recognizer_Marubozu.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Marubozu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Marubozu.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Marubozu.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Marubozu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:50.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recognizer_Hammer.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Hammer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Hammer.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Hammer.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Hammer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recognizer_Dragonfly_Doji.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Dragonfly_Doji.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Dragonfly_Doji.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Dragonfly_Doji.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Dragonfly_Doji.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Recognizer_Gravestone_Doji.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Gravestone_Doji.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Gravestone_Doji.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Gravestone_Doji.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Gravestone_Doji.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Recognizer_Bullish.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bullish.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Bullish.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bullish.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Bullish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:51.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recognizer_Bearish_Harami.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish_Harami.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Bearish_Harami.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish_Harami.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Bearish_Harami.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:51.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recognizer_Bearish.cs",
+              "DocumentMoniker": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp COP 4365\\Recognizer_Bearish.cs",
+              "ToolTip": "C:\\Users\\Diya\\Desktop\\COP4356_C#\\COP4356_C#\\Project_3\\Project 3\\WindowsFormsApp COP 4365\\Recognizer_Bearish.cs",
+              "RelativeToolTip": "WindowsFormsApp COP 4365\\Recognizer_Bearish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:21:51.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
