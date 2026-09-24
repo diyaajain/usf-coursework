@@ -15,8 +15,8 @@ My coursework from the B.S. in Computer Science at the University of South Flori
 - [Database Design](COP4710-database-design/) (SQL, Java)
 - [Operating Systems](COP4600-operating-systems/) (C)
 - [Computer Organization](CDA3103-computer-organization/)
-- [Computer Architecture](CDA4205-computer-architecture/) and [Lab](CDA4205L-computer-architecture-lab/)
-- [Computer Logic Design](CDA3201-computer-logic-design/) and [Lab](CDA3201L-logic-design-lab/)
+- [Computer Architecture](CDA4205-computer-architecture/)
+- [Computer Logic Design](CDA3201-computer-logic-design/)  
 
 **Theory & math**
 - [Analysis of Algorithms](COT4400-analysis-of-algorithms/)
